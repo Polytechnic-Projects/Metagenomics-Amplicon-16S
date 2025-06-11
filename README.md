@@ -69,7 +69,7 @@ The goal is to compare the microbial diversity captured by each primer set and a
 1. Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/Metagenomics-Amplicon-16S.git
+git clone https://github.com/Polytechnic-Projects/Metagenomics-Amplicon-16S.git
 cd Metagenomics-Amplicon-16S
 ```
 
