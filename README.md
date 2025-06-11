@@ -41,7 +41,7 @@ A group of 4 students from ESTBarreiro with their school id number assigned.
 
 This repository contains a fully reproducible pipeline for processing 16S rRNA amplicon sequencing data from the BioProject **PRJNA1080611**. The dataset consists of 16 paired-end samples collected from hydrothermal vents and sequenced using two primer sets (V3V4 and V4V5). We performed read preprocessing, ASV inference, taxonomic classification, and diversity analysis.
 
-The goal is to compare the microbial diversity captured by each primer set and assess the community composition across samples.
+The objective is to reproduce the figures and results from the original paper (Smith et al., 2024), comparing the microbial diversity captured by each primer set and assessing the community composition across samples.
 
 ---
 
@@ -167,4 +167,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [SILVA Database](https://www.arb-silva.de/)
 * [phyloseq](https://joey711.github.io/phyloseq/)
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html)
-* Smith et al. (2024), Microbial communities at hydrothermal vents
+* Smith, L., Fullerton, H., & Moyer, C. L. (2024). Complex hydrothermal vent microbial mat communities used to assess primer selection for targeted amplicon surveys from Kama‘ehuakanaloa Seamount. PeerJ, 12, e18099. https://doi.org/10.7717/peerj.18099
